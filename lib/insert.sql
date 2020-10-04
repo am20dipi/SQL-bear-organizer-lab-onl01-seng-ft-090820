@@ -1,0 +1,2 @@
+SELECT COUNT(*) FROM bears;
+SELECT COUNT(*) FROM bears WHERE name IS NULL;
